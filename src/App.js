@@ -1,5 +1,10 @@
-import "./App.css";
-import SetBook from "./pages/SetBook";
+import "./App.css";import { useEffect, useState } from "react";
+import BooksList from "./components/BooksList";
+import InputBooks from "./components/InputBooks";
+import TotalPrice from "./components/TotalPrice";
+import Modal from "./components/Modal";
+import styles from "./SetBook.module.scss";
+// import SetBook from "./pages/SetBook";
 
 function App() {
   const [title, setTitle] = useState("");
