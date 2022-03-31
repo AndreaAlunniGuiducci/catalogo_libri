@@ -1,0 +1,20 @@
+.bookList {
+  margin: 10px;
+  padding: 10px;
+  border: 1 px solid;
+  border-radius: 10px;
+  background-color: #69b00b;
+  position: relative;
+  button {
+    position: absolute;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+
+    img {
+      width: 15px;
+      height: 15px;
+    }
+  }
+}
