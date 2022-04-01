@@ -84,7 +84,6 @@ function App() {
   }, [toSell]);
   return (
     <div className="App">
-      <>
         {modal && (
           <Modal
             book={isClicked}
@@ -137,7 +136,6 @@ function App() {
           </div>
         </div>
         <TotalPrice books={book} toSell={toSell} />
-      </>
     </div>
   );
 }
