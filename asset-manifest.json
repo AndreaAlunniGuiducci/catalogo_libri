@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/catalogo_libri/static/css/main.1d7e69ef.css",
-    "main.js": "/catalogo_libri/static/js/main.8e76f269.js",
+    "main.css": "/catalogo_libri/static/css/main.2f25f293.css",
+    "main.js": "/catalogo_libri/static/js/main.c09bf06d.js",
     "static/js/787.e4292b0c.chunk.js": "/catalogo_libri/static/js/787.e4292b0c.chunk.js",
     "index.html": "/catalogo_libri/index.html",
-    "main.1d7e69ef.css.map": "/catalogo_libri/static/css/main.1d7e69ef.css.map",
-    "main.8e76f269.js.map": "/catalogo_libri/static/js/main.8e76f269.js.map",
+    "main.2f25f293.css.map": "/catalogo_libri/static/css/main.2f25f293.css.map",
+    "main.c09bf06d.js.map": "/catalogo_libri/static/js/main.c09bf06d.js.map",
     "787.e4292b0c.chunk.js.map": "/catalogo_libri/static/js/787.e4292b0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d7e69ef.css",
-    "static/js/main.8e76f269.js"
+    "static/css/main.2f25f293.css",
+    "static/js/main.c09bf06d.js"
   ]
 }
