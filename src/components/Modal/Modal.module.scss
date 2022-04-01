@@ -1,5 +1,6 @@
 .modal{
     position: fixed;
+    z-index: 2;
     top: calc(50% - 150px);
     right: calc(50% - 250px);
     border: 1px solid;
